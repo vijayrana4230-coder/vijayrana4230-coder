@@ -51,8 +51,6 @@ I'm a BCA student passionate about **Web Development, Programming, and Problem S
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1LacbLNRQx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vijay-singh-18205a380?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayrana4230@gmail.com) 
@@ -69,6 +67,8 @@ I'm a BCA student passionate about **Web Development, Programming, and Problem S
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+⭐ **Thanks for visiting my GitHub profile!**
 
 <!--
 **vijayrana4230-coder/vijayrana4230-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
