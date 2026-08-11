@@ -1,5 +1,57 @@
-# 💫 About Me:
-Hi, I'm Vijay Singh 👋<br><br>🎓 BCA Student<br>💻 Aspiring Software Engineer<br>🌱 Currently learning HTML, CSS, JavaScript, C, C++, and Data Structures & Algorithms (DSA).<br>🚀 I enjoy building web projects and improving my coding skills every day.<br>📚 Passionate about technology, problem-solving, and continuous learning.<br>🎯 Goal: To become a skilled Software Engineer and contribute to real-world projects.
+# 👋 Hi, I'm Vijay Singh
+
+💻 **BCA Student | Aspiring Software Developer | Web Developer**
+
+Welcome to my GitHub profile! 🚀
+
+I'm a BCA student passionate about **Web Development, Programming, and Problem Solving**. I enjoy building practical projects, solving coding problems, and continuously improving my technical skills.
+
+## 👨‍💻 About Me
+
+* 🎓 BCA Student
+* 💻 Aspiring Software Developer
+* 🌐 Learning Web Development
+* 🧠 Practicing Data Structures & Algorithms
+* 🚀 Building practical and real-world projects
+* 📚 Continuously learning new technologies
+* 🎯 Goal: Become a skilled Software Developer
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Web Development
+
+* HTML5
+* CSS3
+* JavaScript
+
+### 💻 Programming
+
+* C
+* C++
+* JavaScript
+
+### 🧠 Computer Science
+
+* Data Structures & Algorithms
+* Problem Solving
+* Object-Oriented Programming
+
+### 🔧 Tools
+
+* Git
+* GitHub
+* VS Code
+
+## 🚀 What I'm Currently Doing
+
+* 📚 Improving my Web Development skills
+* 🧠 Practicing DSA and coding problems
+* 💻 Building projects using HTML, CSS & JavaScript
+* 🔥 Working towards becoming a professional Software Developer
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
 
 
 ## 🌐 Socials:
